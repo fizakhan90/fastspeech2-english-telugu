@@ -1,0 +1,9 @@
+data/raw_data/
+data/preprocessed_data/
+output/
+__pycache__/
+*.pyc
+English/checkpoints/*.pth.tar
+English/checkpoints/hifigan_g_*
+Telugu/checkpoints/*.pth.tar
+Telugu/checkpoints/hifigan_g_*

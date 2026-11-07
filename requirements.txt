@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+g2p-en==2.1.0
+gradio==6.31.0
+inflect==7.6.0
+librosa==0.11.0
+matplotlib==3.11.2
+nltk==3.10.4
+numpy==2.4.6
+pandas==3.1.1
+pyworld==0.3.5
+PyYAML==6.0.3
+scipy==1.17.1
+tensorboard==2.21.0
+tgt==1.5
+torch==2.11.0+cu128
+tqdm==4.70.1
+Unidecode==1.4.0

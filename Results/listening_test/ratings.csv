@@ -1,0 +1,16 @@
+time,rater,telugu_speaker,sentence,pick,system,order
+2026-11-06 21:46:38,Mohammad Ali,False,E1,B,voc26000,universal/voc26000/voc28000/voc20000
+2026-11-06 21:46:38,Mohammad Ali,False,E2a,A,voc20000,voc20000/universal/voc26000/voc28000
+2026-11-06 21:46:38,Mohammad Ali,False,E2b,D,voc28000,voc26000/voc20000/universal/voc28000
+2026-11-06 21:46:38,Mohammad Ali,False,E3,D,voc26000,universal/voc28000/voc20000/voc26000
+2026-11-06 21:46:38,Mohammad Ali,False,E4,C,voc20000,voc28000/voc26000/voc20000/universal
+2026-11-06 21:46:38,Mohammad Ali,False,T1,A,voc28000,voc28000/voc20000/voc26000/universal
+2026-11-06 21:46:38,Mohammad Ali,False,T2a,D,voc20000,voc28000/universal/voc26000/voc20000
+2026-11-06 21:46:38,Mohammad Ali,False,T2b,D,voc28000,universal/voc20000/voc26000/voc28000
+2026-11-06 21:46:38,Mohammad Ali,False,T3,D,voc26000,voc20000/voc28000/universal/voc26000
+2026-11-06 21:46:38,Mohammad Ali,False,T4,D,universal,voc28000/voc20000/voc26000/universal
+2026-11-06 22:05:06,Fiza,False,E1,D,voc28000,universal/voc26000/voc20000/voc28000
+2026-11-06 22:05:06,Fiza,False,E2a,A,voc26000,voc26000/voc20000/universal/voc28000
+2026-11-06 22:05:06,Fiza,False,E2b,A,universal,universal/voc28000/voc26000/voc20000
+2026-11-06 22:05:06,Fiza,False,E3,A,voc26000,voc26000/universal/voc28000/voc20000
+2026-11-06 22:05:06,Fiza,False,E4,B,voc20000,universal/voc20000/voc28000/voc26000
